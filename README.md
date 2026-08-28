@@ -1,12 +1,9 @@
 # 👨‍💻 안녕하세요, 백엔드 개발자 김동규입니다.
 
 <div align="center">
-  <img src="프로필이미지_경로_또는_URL" width="180" style="border-radius: 50%;" alt="Profile Image"/>
-  <br/><br/>
-  
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F사용자계정&count_bg=%23007EC6&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-  [![Email](https://img.shields.io/badge/Gmail-Kdg311378%40gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:Kdg311378@gmail.com)
-  [![Velog](https://img.shields.io/badge/Tech_Blog-20C997?style=flat&logo=velog&logoColor=white)](https://velog.io/@사용자계정)
+  <br/>
+  <a href="mailto:Kdg311378@gmail.com"><img src="https://img.shields.io/badge/Gmail-Kdg311378%40gmail.com-D14836?style=flat&logo=Gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://velog.io/@kdg311378-star"><img src="https://img.shields.io/badge/Tech_Blog-20C997?style=flat&logo=velog&logoColor=white" alt="Blog"/></a>
 </div>
 
 ---
@@ -38,12 +35,3 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![AWS RDS](https://img.shields.io/badge/AWS_RDS-527FFF?style=flat&logo=amazonrds&logoColor=white)
-
----
-
-### 📊 GitHub Statistics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=사용자계정&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=사용자계정&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-</div>
