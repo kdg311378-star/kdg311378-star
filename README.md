@@ -48,7 +48,7 @@
 > **지능형 부동산 안전 거래 및 시세 예측 AI 플랫폼**
 
 * **담당 역할:** Frontend Lead, Backend Developer
-* **핵심 기술:** `Java 17`, `Spring Boot 3`, `Spring Security`, `JWT`, `Redis`, `MySQL`, `React.js`
+* **핵심 기술:** `Java 21`, `Spring Boot 3`, `Spring Security`, `JWT`, `Redis`, `MySQL`, `React.js`
 * **주요 성과 및 구현 내용:**
   - Spring Security & JWT 기반 **무상태(Stateless) 인증** 및 Redis를 활용한 토큰 캐싱 아키텍처 설계
   - `@RestControllerAdvice` 기반 전역 예외 처리(GlobalExceptionHandler)로 **표준 에러 응답 규격화**
