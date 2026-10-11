@@ -19,7 +19,7 @@
 
 **Backend & Core**
 <p align="left">
-  <img src="https://img.shields.io/badge/Java_17-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python_3-3776AB?style=flat-square&logo=python&logoColor=white"/>
@@ -54,5 +54,17 @@
   - `@RestControllerAdvice` 기반 전역 예외 처리(GlobalExceptionHandler)로 **표준 에러 응답 규격화**
   - AI 부동산 시세 예측 및 분석 파이프라인 구축 / 대화형 챗봇 실시간 API 연동
   - Axios Interceptor를 활용한 자동 토큰 재발급(Refresh) 및 전역 라우트 보안 처리
+    
+#### 🧭 [GOLDENSTEP (골든스텝)](https://github.com/kdg311378-star/goldenstep-algorithm)
+> **보행 네트워크 토폴로지 및 다중 에이전트 공간 확률 통계 기반 초기 실종자 수색 의사결정 지원 플랫폼**
+
+- **담당 역할:** AI & Spatial Data Engineering, Core Research Lead
+- **핵심 기술:** `Python 3.11`, `FastAPI`, `NetworkX`, `Shapely`, `GeoPandas`, `SciPy`, `Docker`
+- **주요 성과 및 구현 내용:**
+  - 서울시 전역 16.5만 노드 보행망 및 69.5만 건 건축물대장 전수 인메모리 사전 적재(Lifespan) 파이프라인 구축
+  - 치매 임상 거동 특성(터널 시야 직진 편향, DEM 경사 저항, 도로 위계) 기반 다항 로짓 효용 모델 및 2,000명 에이전트 몬테카를로 시뮬레이터 설계
+  - 3단계 기하 압축 체계($A_1 \to A_2 \to A_3$) 설계를 통해 단순 동심원 반경 대비 수색 면적 74% 이상 기하학적 압축 ($ARR \ge 70.0\%$ 달성)
+  - Shapely STRtree 2차원 공간 색인 및 150m 최소 이격 NMS 기반 최우선 확인 거점(POI) TOP 3 도출 및 단일 시뮬레이션 평균 0.5초대 연산 SLA 달성
+  - 서울 실사건 벤치마크(220건) 블라인드 테스트 기준 100m 완충 구역 적중률(Hit-Rate) 75% 이상 검증 및 Koester 국제 수색 통계 K-S 적합도 검정 통과
 
 ---
